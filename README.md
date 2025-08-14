@@ -1,5 +1,5 @@
 # homelab-master
-Master repo for deploy the infrastructure to my Homelab
+Master repo for deploying the infrastructure to my Homelab
 
 ## Index
 
