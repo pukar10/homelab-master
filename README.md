@@ -9,4 +9,3 @@ Master repo for deploy the infrastructure to my Homelab
 [k3-automation](https://github.com/pukar10/k3-automation)
 * Declarative ansible repo to configure VMs, install minimal k3 replacing servicelb with metallb and traefik with ingress-nginx.
 * Includes playbooks to install rook-ceph as storage solution.
-
