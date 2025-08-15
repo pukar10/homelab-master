@@ -2,14 +2,13 @@
 Master repo for deploying the infrastructure to my Homelab
 
 ## To do
+- [ ] Create a list of desired Homelab services and their purpose
 - [x] Terraform to deploy VMs
 - [x] Ansible to configure and install K3s
 - [x] Ansible to configure and install rook-ceph
 - [x] Upgrade to Proxmox 9
 - [x] Determine how to handle secrets (storing, push) and passwords
-- [ ] Create a list of desired Homelab services and their purpose
-- [ ] Finish all infrastrcuture deploy repos
-- [ ] Finish all service deploy repos
+- [ ] Determine Deployment strategy (Bootstrap vs ArgoCD)
 
 ## Index
 
