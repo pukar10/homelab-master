@@ -2,13 +2,29 @@
 Master repo for deploying the infrastructure to my Homelab
 
 ## To do
-- [ ] Create a list of desired Homelab services and their purpose
+- [x] Create a list of desired Homelab services and their purpose
 - [x] Terraform to deploy VMs
 - [x] Ansible to configure and install K3s
 - [x] Ansible to configure and install rook-ceph
 - [x] Upgrade to Proxmox 9
 - [x] Determine how to handle secrets (storing, push) and passwords
-- [ ] Determine Deployment strategy (Bootstrap vs ArgoCD)
+- [x] Determine Deployment strategy (Bootstrap vs ArgoCD): ArgoCD
+- [ ] Refactor the project to use ArgoCD app of apps with the services
+  - [ ] MetalLB
+  - [ ] Ingress-nginx
+  - [ ] Cert-manager
+  - [ ] External-secrets
+  - [ ] Infisical
+  - [ ] Bitwarden
+  - [ ] Rook-Ceph
+  - [ ] CNPG
+  - [ ] Keycloak
+  - [ ] Gitea
+  - [ ] Nexus
+  - [ ] Argocd
+  - [ ] K8s dashboard
+  - [ ] Paperless
+  - [ ] Plex
 
 ## Index
 
@@ -40,7 +56,6 @@ CloudnativePG-deploy
 Keycloak-deploy
 * SSO
 
-Gitea
+Gitea-deploy
 * Code repository
-
 
