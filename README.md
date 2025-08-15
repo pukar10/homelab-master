@@ -3,7 +3,7 @@ Master repo for deploying the infrastructure to my Homelab
 
 ## To do
 - [x] Upgrade to Proxmox 9
-- [ ] Determine how to handle secrets (storing, push) and passwords
+- [x] Determine how to handle secrets (storing, push) and passwords
 - [ ] Create a list of desired Homelab services and their purpose
 - [ ] Finish all infrastrcuture deploy repos
 - [ ] Finish all service deploy repos
