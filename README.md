@@ -1,6 +1,10 @@
 # homelab-master
 Master repo for deploying the infrastructure to my Homelab
 
+## To do
+- [x] Upgrade to Proxmox 9
+- [ ] 
+
 ## Index
 
 [Proxmox-deploy](https://github.com/pukar10/proxmox-deploy)
@@ -9,3 +13,4 @@ Master repo for deploying the infrastructure to my Homelab
 [k3-automation](https://github.com/pukar10/k3-automation)
 * Declarative ansible repo to configure VMs, install minimal k3 replacing servicelb with metallb and traefik with ingress-nginx.
 * Includes playbooks to install rook-ceph as storage solution.
+
