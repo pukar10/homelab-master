@@ -9,7 +9,7 @@ Master repo for deploying the infrastructure to my Homelab
 - [x] Upgrade to Proxmox 9
 - [x] Determine how to handle secrets (storing, push) and passwords
 - [x] Determine Deployment strategy (Bootstrap vs ArgoCD): ArgoCD
-- [ ] Refactor the project to use ArgoCD app of apps with the services
+- [ ] Refactor the project to use ArgoCD app of apps to bootstrap the following services:
   - [ ] MetalLB
   - [ ] Ingress-nginx
   - [ ] Cert-manager
