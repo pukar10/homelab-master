@@ -1,5 +1,11 @@
 # homelab-master
-Master repo for forging and igniting the infrastructure in my Homelab then launching!
+Master repo for building, configuring and deploying the infrastructure to the Homelab!
+
+`*-forge` - Terraform repos
+`*-ignite` - Ansible repos
+`*-launch` - Helm wrapper repos
+
+The goal will be to automate the entire homelab infrastructure while also trying to implement best practices.
 
 ## To do
 - [x] Create a list of desired Homelab services and their purpose
