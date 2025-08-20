@@ -43,24 +43,24 @@ Master repo for forging and igniting the infrastructure in my Homelab then launc
   *  Ingress-nginx to replace traefik
   *  Rook-ceph as a storage solution
 
-cert-manager-launch
+[cert-manager-launch](https://github.com/pukar10/cert-manager-launch)
 * Automates getting/renewing certs
 
-external-secrets-launch
+external-secrets-launch (tba)
 * Able to generates secret and push to secret-store or pull secrets from secret-store and save as a secret for apps to consume.
 
-infisical-launch
+infisical-launch (tba)
 * Secret store
 
-bitwarden-launch
+bitwarden-launch (tba)
 * Password manager
 
-CloudnativePG-launch
+[cloudnativepg-launch](https://github.com/pukar10/cloudnativepg-launch)
 * Operator to manage one or more Postgres clusters
 
-Keycloak-launch
+[keycloak-launch](https://github.com/pukar10/keycloak-launch)
 * SSO
 
-Gitea-launch
+gitea-launch (tba)
 * Code repository
 
