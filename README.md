@@ -26,6 +26,8 @@ Master repo for deploying the infrastructure to my Homelab
   - [ ] Paperless
   - [ ] Plex
 
+**UPDATE:** We got a task Board! [HERE!](https://github.com/users/pukar10/projects/1)
+
 ## Index
 
 [Proxmox-deploy](https://github.com/pukar10/proxmox-deploy)
