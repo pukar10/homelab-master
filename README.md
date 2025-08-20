@@ -1,5 +1,5 @@
 # homelab-master
-Master repo for deploying the infrastructure to my Homelab
+Master repo for forging and igniting the infrastructure in my Homelab then launching!
 
 ## To do
 - [x] Create a list of desired Homelab services and their purpose
@@ -30,10 +30,10 @@ Master repo for deploying the infrastructure to my Homelab
 
 ## Index
 
-[Proxmox-deploy](https://github.com/pukar10/proxmox-deploy)
+[Proxmox-forge](https://github.com/pukar10/proxmox-deploy)
 * Declarative Terraform repo to deploy n VMs onto n hosts with differing configurations.
 
-[k3-automation](https://github.com/pukar10/k3-automation)
+[k3-ignite](https://github.com/pukar10/k3-automation)
 * Declarative ansible repo to configure VMs installing the following
   *  Minimal k3s
   *  Containerd as CRI
@@ -43,24 +43,24 @@ Master repo for deploying the infrastructure to my Homelab
   *  Ingress-nginx to replace traefik
   *  Rook-ceph as a storage solution
 
-Cert-manager-deploy
+cert-manager-launch
 * Automates getting/renewing certs
 
-External-secrets-deploy
+external-secrets-launch
 * Able to generates secret and push to secret-store or pull secrets from secret-store and save as a secret for apps to consume.
 
-Infisical-deploy
+infisical-launch
 * Secret store
 
-Bitwarden
+bitwarden-launch
 * Password manager
 
-CloudnativePG-deploy
+CloudnativePG-launch
 * Operator to manage one or more Postgres clusters
 
-Keycloak-deploy
+Keycloak-launch
 * SSO
 
-Gitea-deploy
+Gitea-launch
 * Code repository
 
