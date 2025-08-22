@@ -1,5 +1,5 @@
 # homelab-master
-Master repo for building, configuring and deploying the infrastructure to the Homelab! The goal will be to automate the entire process while also trying to implement best practices.
+Master repo for building, configuring and deploying the infrastructure to the Homelab! The goal will be to automate the entire process while also trying to implement best practices and be cloud agnostic.
 
 `*-forge` - Terraform repos
 
